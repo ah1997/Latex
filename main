@@ -1,0 +1,1 @@
+texcount synopsis.tex -inc -incbib -sum -1
